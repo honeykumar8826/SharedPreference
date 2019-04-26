@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="create_account">Create Account</string>
+    <string name="terms_conditions">By Singingup you agree our <font color="#00FA9A">Terms and Conditions</font></string>
+    <string name="button_create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="login">Login</string>
+    <string name="signup">Not an account?<font color="#3949AB">SignUp</font></string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="shared_preference_data">Shared Preference Data</string>
+</resources>
